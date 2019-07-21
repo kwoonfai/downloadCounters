@@ -1,0 +1,10 @@
+C:\Users\kwoon\Desktop\Programming\downloadCounters\downloadCounters\bin\Debug\downloadCounters.exe.config
+C:\Users\kwoon\Desktop\Programming\downloadCounters\downloadCounters\bin\Debug\downloadCounters.exe
+C:\Users\kwoon\Desktop\Programming\downloadCounters\downloadCounters\bin\Debug\downloadCounters.pdb
+C:\Users\kwoon\Desktop\Programming\downloadCounters\downloadCounters\obj\Debug\downloadCounters.csprojAssemblyReference.cache
+C:\Users\kwoon\Desktop\Programming\downloadCounters\downloadCounters\obj\Debug\downloadCounters.Form1.resources
+C:\Users\kwoon\Desktop\Programming\downloadCounters\downloadCounters\obj\Debug\downloadCounters.Properties.Resources.resources
+C:\Users\kwoon\Desktop\Programming\downloadCounters\downloadCounters\obj\Debug\downloadCounters.csproj.GenerateResource.cache
+C:\Users\kwoon\Desktop\Programming\downloadCounters\downloadCounters\obj\Debug\downloadCounters.csproj.CoreCompileInputs.cache
+C:\Users\kwoon\Desktop\Programming\downloadCounters\downloadCounters\obj\Debug\downloadCounters.exe
+C:\Users\kwoon\Desktop\Programming\downloadCounters\downloadCounters\obj\Debug\downloadCounters.pdb
