@@ -29,6 +29,7 @@ namespace downloadCounters
             {
                 var ret = await DownloadFile(a, lastDownloaded);
                 if (ret == "") break;
+                lastDownloaded = ret;
             }
         }
 
@@ -50,10 +51,11 @@ namespace downloadCounters
                 return "";
             }
 
-            File.WriteAllText(page + ".txt", downloadText);
-
+            
             if (downloadText == lastString)
                 return "";
+
+            File.WriteAllText(page + ".txt", downloadText);
 
             return downloadText;
         }
